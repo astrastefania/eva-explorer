@@ -14,7 +14,7 @@ I really thank you the group for the support and help.
 EVAs are activities done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere.
 You can learn more in here https://spaceflight.nasa.gov/shuttle/reference/faq/eva.html
 
-Records:
+Records (https://en.wikipedia.org/wiki/List_of_cumulative_spacewalk_records):
 1. Anatoly Solovyev (RSA): 82h 22' in 16 EVAs
 2. Michael Lopez-Alegria (NASA): 67h 40' in 10 EVAs
-(https://en.wikipedia.org/wiki/List_of_cumulative_spacewalk_records)
+
