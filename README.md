@@ -7,7 +7,7 @@ I started this project during the Open Source Saturday in Turin, and as the data
 You can find as **eva-dataset_cleaner.py**
 I really thank you the group for the support and help.
 
-Updates: both the cleaner and the exploration are work-in-progress, I'm continuing experimenting on the Jupyter notebook added*
+*Updates: both the cleaner and the exploration are work-in-progress, I'm continuing experimenting on the Jupyter notebook added*
 
 ## Further info
 
