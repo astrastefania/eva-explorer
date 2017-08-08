@@ -31,17 +31,3 @@ print(df_eva.head(3))
 print(df_eva.tail(3))
 print(df_eva.columns)
 print(df_eva.shape)
-
-
-# Visualising some data
-
-# Graph 1
-df_eva.plot(x='EVA #', y='Duration', kind='hist', bins=30)
-
-plt.xlabel('EVA no.')
-plt.ylabel('Time spent out in the space')
-plt.show()
-
-# Graph 2
-#plt.plot( x='EVA #', y='Duration')
-#plt.show()
